@@ -34,7 +34,7 @@ Creating a client
 -----------------
 
 .. code-block:: python
-
+ 
     from telethon import TelegramClient, events, sync
 
     # These example values won't work. You must get your own api_id and
